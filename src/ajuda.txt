@@ -1,0 +1,17 @@
+Explicação do Código: JavaScript
+
+Funcionalidades:
+Carrossel Automático: Avança automaticamente a cada 5 segundos.
+Validação de Formulário: Adiciona mensagens de validação personalizada e impede o envio se os campos estiverem vazios.
+Exibição Responsiva: Ajusta o carrossel e a navegação de acordo com o tamanho da tela.
+----------------------------------------------------
+Explicação do Código:
+Cabeçalho (header): Contém o nome da PetShop, uma breve descrição e um menu de navegação com links para as seções do site.
+Carrossel de Imagens: Exibe imagens rotativas que destacam serviços ou produtos da PetShop.
+Produtos: Uma seção com três produtos, cada um com imagem, descrição e preço.
+Serviços: Uma seção com dois serviços oferecidos, incluindo o preço.
+Formulário de Cadastro: Coleta dados do cliente e do pet, incluindo informações de contato e preferências de serviço. Inclui uma opção para tele-busca.
+Rodapé (footer): Contém informações legais e links para termos de uso e política de privacidade.
+Este código utiliza o framework Bootstrap para facilitar a criação de um layout responsivo e estilizado.
+
+
